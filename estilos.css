@@ -1,0 +1,25 @@
+*{ 
+background-color: #008B8B;
+color: white;
+text-align: center;
+}
+
+#imgPerfil{
+border-radius: 50%;
+border: solid 5px;
+border-color: blanchedalmond;
+}
+
+.titulos{
+    font-size: 200%;
+    font-style: italic;
+}
+
+h2{
+font-size: 300%;    
+}
+
+#biografia{
+    width: 70vw;
+    margin-left: 15%;
+}
